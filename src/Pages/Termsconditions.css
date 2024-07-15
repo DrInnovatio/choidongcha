@@ -1,0 +1,16 @@
+
+.going-home-button {
+  padding: 1rem 2.5rem;
+  background-color:  #00274C;
+  outline: none;
+  border: none;
+  border-radius: 5rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+  font-weight: 600;
+  color: #FFCB05;
+  transition: 0.2s;
+  display: flex;
+  justify-content: center;
+  margin: 1rem auto;
+}
